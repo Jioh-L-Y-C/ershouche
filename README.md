@@ -22,7 +22,6 @@ npm run build --report
 
 ## 汽车列表页面  - 分页排序组件 - 汽车筛选组件 -搭配iviewUI搭建的用render()函数插入图片标签和点击methods 点击汽车图片查看详情页面
      效果图 ![图片](https://raw.githubusercontent.com/Jioh-L-Y-C/ershouche/master/img-project/carlist1.png)
-     效果图 ![图片](https://raw.githubusercontent.com/Jioh-L-Y-C/ershouche/master/img-project/carlist2.png)
 
 ## 汽车详情页面页面 - 汽车外观 - 内饰 - 结构 - 更多
 
